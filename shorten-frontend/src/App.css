@@ -1,0 +1,115 @@
+.progress-bar {
+  height: 5px;
+  background-color: rgba(0, 0, 0, 0.1);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+@keyframes progress {
+  0% {
+    width: 100%;
+  }
+  100% {
+    width: 0%;
+  }
+}
+
+.icon{
+  color: black;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+/* src/App.css */
+
+.modal.popup-view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-dialog.boarding-pass {
+  max-width: 500px;
+  width: 100%;
+  border: 2px solid #ddd;
+  border-radius: 15px;
+  background-color: #f8f9fa;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif;
+}
+
+.modal-content {
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.modal-header h3 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.close {
+  font-size: 1.5rem;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.modal-body {
+  padding: 20px 0;
+}
+
+.modal-body p {
+  margin: 10px 0;
+}
+
+.modal-body strong {
+  color: #333;
+}
+
+.modal-body a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.modal-body a:hover {
+  text-decoration: underline;
+}
+
+.qr-code {
+  display: block;
+  margin: 20px auto;
+  width: 150px;
+  height: 150px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+}
+
+.modal-footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.modal-footer .btn {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.modal-footer .btn:hover {
+  background-color: #0056b3;
+}
