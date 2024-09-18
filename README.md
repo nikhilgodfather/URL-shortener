@@ -37,10 +37,11 @@ Welcome to the **URL Shortener Web App**! This project is a simple yet powerful 
 ![QR Code](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot3.png)
 
 ### 4. Edit Overview
+![Edit](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot4.png)
 ![Edit](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot5.png)
 
 ### 4. URL Click and Scan Tracking
-![Tracking](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot1.png)
+![Tracking](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot3.png)
 
 ---
 
