@@ -22,7 +22,6 @@ Welcome to the **URL Shortener Web App**! This project is a simple yet powerful 
 5. [Technologies Used](#technologies-used)
 6. [Contributing](#contributing)
 7. [Acknowledgements](#acknowledgements)
-8. [License](#license)
 
 ---
 
@@ -104,7 +103,7 @@ To set up the project locally, follow these steps:
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React Js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **QR Code Generation**: `qrcode` package
@@ -127,7 +126,3 @@ Special thanks to the following resources and contributors for making this proje
 - [Express.js](https://expressjs.com)
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
