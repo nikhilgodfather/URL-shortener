@@ -28,16 +28,19 @@ Welcome to the **URL Shortener Web App**! This project is a simple yet powerful 
 ## Screenshots
 
 ### 1. Dashboard Overview
-![Dashboard](path/to/dashboard-image.png)
+![Dashboard](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot2.png)
 
 ### 2. URL Shortening Page
-![Shorten URL](path/to/shorten-url-image.png)
+![Shorten URL](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot1.png)
 
 ### 3. QR Code Generation
-![QR Code](path/to/qr-code-image.png)
+![QR Code](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot3.png)
+
+### 4. Edit Overview
+![Edit](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot5.png)
 
 ### 4. URL Click and Scan Tracking
-![Tracking](path/to/tracking-image.png)
+![Tracking](https://github.com/nikhilgodfather/URL-shortener/blob/main/Preview/Screenshot1.png)
 
 ---
 
